@@ -1,16 +1,23 @@
 {
-  "name": "memory-click",
+  "name": "click-game",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "6.11.0"
+  },
   "dependencies": {
-    "react": "^16.5.2",
-    "react-dom": "^16.5.2",
-    "react-scripts": "1.1.5"
+    "gh-pages": "^1.1.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.0.17"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "homepage": "https://github.com/nikolaizemlin/memory-click.git"
 }

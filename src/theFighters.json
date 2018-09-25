@@ -1,0 +1,64 @@
+[
+  {
+    key: 1,
+    name: "toren",
+    selected: false
+  },
+  {
+    key: 2,
+    name: "wolf",
+    selected: false
+  },
+  {
+    key: 3,
+    name: "sylvanas",
+    selected: false
+  },
+  {
+    key: 4,
+    name: "dh",
+    selected: false
+  },
+  {
+    key: 5,
+    name: "goblin",
+    selected: false
+  },
+  {
+    key: 6,
+    name: "grouge",
+    selected: false
+  },
+  {
+    key: 7,
+    name:"trex",
+    selected: false
+  },
+  {
+    key: 8,
+    name: "orc",
+    selected: false
+  },
+  {
+
+    key: 9,
+    name: "dwarf",
+    selected: false
+  },
+  {
+    key: 10,
+    name: "ice",
+    selected: false
+  },
+  {
+    key: 11,
+    name: "orc3",
+    selected: false
+  },
+  {
+    key: 12,
+    name: "lady",
+    selected: false
+  }
+
+]
